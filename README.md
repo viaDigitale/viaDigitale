@@ -112,7 +112,7 @@ Je développe et pilote différents sujets autour :
 ## Me contacter
 
 - site : [laviadigitale.fr](https://laviadigitale.fr)
-- LinkedIn : (https://www.linkedin.com/in/michael-pommerat)
+- LinkedIn : https://www.linkedin.com/in/michael-pommerat
 
 ---
 

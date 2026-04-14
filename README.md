@@ -22,7 +22,7 @@ Concrètement, j’aide à :
 - clarifier un besoin
 - cadrer ce qui a vraiment de la valeur
 - transformer cela en solution compréhensible par le métier et réalisable par la technique
-- faire avancer le projet sans en faire un feuilleton de 12 saisons
+- faire avancer le projet sans en faire une série de 12 saisons
 
 Je travaille sur des applications web, des outils métier, des parcours digitaux et des sujets de structuration produit.
 
